@@ -1,0 +1,165 @@
+Your task is to encode the entier given plain text in XML according to TEI conventions.
+Leave the TEI-Header out and encode the text only.
+Here is an example of what I expect :
+
+*Plain Text*
+CHAPITRE VI.
+De l'Enjambement.
+
+Lorsque le sens commence dans un vers et finit
+dans une partie du vers suivant, on dit que le premier vers enjambe, ou qu'il y a enjambement.
+
+L'enjambement est interdit au vers alexandrin, surtout dans les genres soutenus.
+Boileau fait un mérite à Malherbe d'avoir établi cette règle :
+
+Et le vers sur le vers n'osa plus enjamber.
+
+Jusqu'alors elle avait été généralement ignorée :
+
+Et le banc périlleux, qui se trouve parmi
+Les eaux, ne t'enveloppe en son sable endormi. RONSARD.
+
+Hélas ! prends donc mon cœur avecque cette paire
+De ramiers que je t'offre; ils sont venus de l'aire. ID.
+
+Dans une de ses premières tragédies, Racine a laissé échapper un enjambement :
+
+Le feu de ses regards, sa haute majesté
+Font connattre Alexandre. Et certes son visage
+Porte de sa grandeur l'ineffaçable image.
+
+1re Remarque. L'enjambement est permis quand on a soin d'ajouter aux mots rejetés un développement qui complète le vers :
+
+Oui, j'accorde qu'Auguste a droit de conserver
+L'empire, où sa vertu l'a fait seule arriver. CORN.
+Elle se croit déjà souveraine maitresse
+D'un sceptre partagé, que sa bonté lui laisse. ID.
+Qui voit sous ses drapeaux marcher un camp nombreux
+De hardis étrangers, d'infidèles Hébreux. RAC.
+Enfin je me dérobe à la joie importune
+De tant d'amis nouveaux que m'a faits ma fortune...
+Il voit plus que jamais ses campagnes couvertes
+De Romains que la guerre enrichit de nos pertes. ID.
+
+2me Remarque. Il est encore permis lorsqu'il y a une suspension, réticence ou interruption :
+
+N'y manquez pas du moins; j'ai quatorze bouteilles
+D'un vieux vin... Boucingot n'en a pas de pareilles. BOIL.
+Est-ce un frère? est-ce vous dont la témérité
+S'imagine?... - Apaisez ce courroux emporté. CORN.
+
+3me Remarque. L'enjambement n'est pas proscrit d'une manière aussi rigoureuse des genres simples, tels que la comédie, la fable, le conte, l'épître badine, etc.
+
+4me Remarque. On tire quelquefois de l'enjambement d'heureux effets d'harmonie imitative. C'est ce que nous verrons dans un des chapitres suivants.
+
+5me Remarque. Il est souvent admis dans les vers de dix syllabes. Nous reviendrons également sur ce point.
+
+Observation générale. La règle de l'enjambement est une règle fondamentale, qui, avec la rime,
+tient à l'essence même de notre système de versification; et ces deux règles sont intimement liées.
+Comme l'a bien senti la Harpe, nos vers ne peuvent enjamber parce qu'ils riment; et la rime étant une des premières conditions de notre poésie,
+tout ce qui tend à la faire disparaître est un véritable contre-sens.
+
+*TEI encoded text*
+<div type="chapitre" n="VI" xml:id="vi">
+    <head type="numero">CHAPITRE VI.</head>
+    <head type="titre">De l'Enjambement.</head>
+    <p><gloss target="#vi-enjamb">Lorsque le sens commence dans un vers et finit
+    dans une partie du vers suivant, on dit que le premier vers enjambe, ou qu'il y a <term xml:id="vi-enjamb">enjambement</term>.</gloss></p>
+    <p ana="prescription">L'enjambement est interdit au vers alexandrin, surtout dans les genres soutenus.
+    <rs type="per" xml:id="boileau">Boileau</rs> fait un mérite à <rs type="per" xml:id="malherbe">Malherbe</rs> d'avoir établi cette règle :</p>
+    <p><quote source="boileau">
+        <l>Et le vers sur le vers n'osa plus enjamber.</l>
+    </quote></p>
+    <p>Jusqu'alors elle avait été généralement ignorée :</p>
+    <cit type="exemple" corresp="#vi-enjamb">
+    <quote>
+        <lg>
+            <l>Et le banc périlleux, qui se trouve parmi</l>
+            <l>Les eaux, ne t'enveloppe en son sable endormi.</l>
+        </lg>
+    </quote>
+    <bibl corresp="#ronsard">RONSARD.</bibl>
+    </cit>
+    <cit type="exemple" corresp="#vi-enjamb">
+    <quote>
+        <lg>
+            <l>Hélas ! prends donc mon cœur avecque cette paire</l>
+            <l>De ramiers que je t'offre; ils sont venus de l'aire.</l>
+        </lg>
+    </quote>
+    <bibl corresp="#ronsard">ID.</bibl>
+    </cit>
+    <p>Dans une de ses premières tragédies, <rs type="per" xml:id="racine">Racine</rs> a laissé échapper un <term corresp="#vi-enjamb">enjambement</term> :</p>
+    <p><quote source="racine">
+        <lg>
+            <l>Le feu de ses regards, sa haute majesté</l>
+            <l>Font connaître Alexandre. Et certes son visage</l>
+            <l>Porte de sa grandeur l'ineffaçable image.</l>
+        </lg>
+    </quote></p>
+    <p ana="remarque" xml:id="vi-1">1re Remarque. L'<term corresp="#vi-enjamb">enjambement</term> est permis quand on a soin d'ajouter aux mots rejetés un développement qui complète le vers :</p>
+    <cit type="exemple" corresp="#vi-enjamb">
+    <quote>
+        <lg>
+            <l>Oui, j'accorde qu'Auguste a droit de conserver</l>
+            <l>L'empire, où sa vertu l'a fait seule arriver.</l>
+        </lg>
+    </quote>
+    <bibl corresp="corneille">CORN.</bibl>
+    </cit>
+     <cit type="exemple" corresp="#vi-enjamb">
+    <quote>
+        <lg>
+            <l>Elle se croit déjà souveraine maitresse</l>
+            <l>D'un sceptre partagé, que sa bonté lui laisse.</l>
+        </lg>
+    </quote>
+    <bibl corresp="corneille">ID.</bibl>
+    </cit>
+    <cit type="exemple" corresp="#vi-enjamb">
+    <quote>
+        <lg>
+            <l>Qui voit sous ses drapeaux marcher un camp nombreux</l>
+            <l>De hardis étrangers, d'infidèles Hébreux.</l>
+        </lg>
+    </quote>
+    <bibl corresp="racine">RAC.</bibl>
+    </cit>
+    <cit type="exemple" corresp="#vi-enjamb">
+    <quote>
+        <lg>
+            <l>Enfin je me dérobe à la joie importune</l>
+            <l>De tant d'amis nouveaux que m'a faits ma fortune...</l>
+            <l>Il voit plus que jamais ses campagnes couvertes</l>
+            <l>De Romains que la guerre enrichit de nos pertes.</l>
+        </lg>
+    </quote>
+    <bibl corresp="racine">ID.</bibl>
+    </cit>
+    <p ana="remarque" xml:id="vi-2">2me Remarque. Il est encore permis lorsqu'il y a une suspension, réticence ou interruption :</p>
+    <cit type="exemple" corresp="#vi-enjamb">
+    <quote>
+        <lg>
+            <l>N'y manquez pas du moins; j'ai quatorze bouteilles</l>
+            <l>D'un vieux vin... Boucingot n'en a pas de pareilles.</l>
+        </lg>
+    </quote>
+    <bibl corresp="boileau">BOIL.</bibl>
+    </cit>
+    <cit type="exemple" corresp="#vi-enjamb">
+    <quote>
+        <lg>
+            <l>Est-ce un frère? est-ce vous dont la témérité</l>
+            <l>S'imagine?... - Apaisez ce courroux emporté.</l>
+        </lg>
+    </quote>
+    <bibl corresp="corneille">CORN.</bibl>
+    </cit>
+    <p ana="remarque" xml:id="vi-3">3me Remarque. L'<term corresp="#vi-enjamb">enjambement</term> n'est pas proscrit d'une manière aussi rigoureuse des genres simples, tels que la comédie, la fable, le conte, l'épître badine, etc.</p>
+    <p ana="remarque" xml:id="vi-4">4me Remarque. On tire quelquefois de l'<term corresp="#vi-enjamb">enjambement</term> d'heureux effets d'harmonie imitative. C'est ce que nous verrons dans un des chapitres suivants.</p>
+    <p ana="remarque" xml:id="vi-5">5me Remarque. Il est souvent admis dans les vers de dix syllabes. Nous reviendrons également sur ce point.</p>
+    <p ana="observation_generale">Observation générale. La règle de l'enjambement est une règle fondamentale, qui, avec la rime,
+    tient à l'essence même de notre système de versification; et ces deux règles sont intimement liées.
+    Comme l'a bien senti <rs type="per" xml:id="la_harpe">la Harpe</rs>, nos vers ne peuvent enjamber parce qu'ils riment; et la rime étant une des premières conditions de notre poésie,
+    tout ce qui tend à la faire disparaître est un véritable contre-sens.</p>
+</div>
