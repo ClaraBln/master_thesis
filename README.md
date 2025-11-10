@@ -18,6 +18,7 @@ This repository includes a sample of my corpus stored in `plain_text.txt`, which
 - Develop effective prompt strategies for guiding LLMs.
 - Evaluate and compare LLM performance on TEI-encoded texts.
 - Use API automation with Python for reproducibility and efficiency.
+- Analyse the data using Tableau
 
 ## Technologies Used
 
@@ -25,6 +26,7 @@ This repository includes a sample of my corpus stored in `plain_text.txt`, which
 - Large Language Models (ChatGPT, Gemini, Mistral, Claude)
 - LLM APIs
 - XML & TEI standards
+- Tableau
 
 ## Getting Started
 
@@ -34,7 +36,7 @@ Installation
 
 ```
 git clone https://github.com/ClaraBln/master_thesis.git
-cd master thesis
+cd master_thesis
 ```
 
 
