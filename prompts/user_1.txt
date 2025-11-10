@@ -1,0 +1,2 @@
+Your task is to encode the entier given plain text in XML according to TEI conventions.
+Leave the TEI-Header out and encode the text only.
