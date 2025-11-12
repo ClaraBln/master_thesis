@@ -105,7 +105,7 @@ def save_xml_file(path, content):
 
 # -------------------- LLM API call function --------------------
 
-def mistral_request(messages, temperature=0.0, model="mistral-small", random_seed=42):
+def mistral_request(messages, temperature=0.0, model="mistral-large-latest", random_seed=42):
     """
         Make a chat completion request to the Mistral API.
 
@@ -128,7 +128,7 @@ def mistral_request(messages, temperature=0.0, model="mistral-small", random_see
         "model": model,
         "messages": messages,
         "temperature": temperature,
-        "max_token": 2500,
+        "max_tokens": 2500,
         "random_seed": random_seed
     }
     try:
