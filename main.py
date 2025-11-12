@@ -132,7 +132,7 @@ def mistral_request(messages, temperature=0.0, model="mistral-large-latest", ran
         "random_seed": random_seed
     }
     try:
-        response = requests.post(url, headers=headers, json=data, timeout=60)
+        response = requests.post(url, headers=headers, json=data, timeout=120)
         response.raise_for_status()
         return response.json()["choices"][0]["message"]["content"]
     except Exception as e:
