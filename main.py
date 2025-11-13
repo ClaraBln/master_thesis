@@ -8,7 +8,7 @@ MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 
 # -------------------- Prompt loading functions --------------------
 
-def upload_system_prompt(chemin="prompts/system_prompt.txt"):
+def upload_system_prompt(chemin: str ="prompts/system_prompt.txt") -> str:
     """
         Load the system prompt from a given file path.
 
@@ -26,7 +26,7 @@ def upload_system_prompt(chemin="prompts/system_prompt.txt"):
         print("Erreur de lecture du prompt système. Vérifie le fichier system_prompt.txt.")
         exit(1)
 
-def upload_user_prompt(num):
+def upload_user_prompt(num: str) -> str:
     """
        Load a user prompt given the prompt number.
 
@@ -47,7 +47,7 @@ def upload_user_prompt(num):
         with open("user_1.txt", encoding="utf-8") as f:
             return f.read()
 
-def select_prompt():
+def select_prompt() -> tuple[str, str, str]:
     """
         Ask the user to choose which user prompt to use and load the selected prompt.
 
@@ -68,7 +68,7 @@ def select_prompt():
 
 # -------------------- File reading and writing functions --------------------
 
-def read_txt_file(path):
+def read_txt_file(path: str) -> str:
     """
         Read the content of a text file.
 
@@ -86,7 +86,7 @@ def read_txt_file(path):
         print(f"Erreur lors de la lecture du fichier : {e}")
         exit(1)
 
-def save_xml_file(path, content):
+def save_xml_file(path: str, content: str) -> None:
     """
         Save string content to a file.
 
@@ -105,7 +105,7 @@ def save_xml_file(path, content):
 
 # -------------------- LLM API call function --------------------
 
-def mistral_request(messages, temperature=0.0, model="mistral-large-latest", random_seed=42):
+def mistral_request(messages: list[dict[str, str]], temperature: float =0.0, model: str ="mistral-large-latest", random_seed: int =42) -> str:
     """
         Make a chat completion request to the Mistral API.
 
@@ -141,7 +141,7 @@ def mistral_request(messages, temperature=0.0, model="mistral-large-latest", ran
 
 # -------------------- MAIN PROGRAM --------------------
 
-def main():
+def main() -> None:
     """
         Main program execution function.
 
