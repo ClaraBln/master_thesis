@@ -22,33 +22,7 @@ Les eaux, ne t'enveloppe en son sable endormi. RONSARD.
 Hélas ! prends donc mon cœur avecque cette paire
 De ramiers que je t'offre; ils sont venus de l'aire. ID.
 
-Dans une de ses premières tragédies, Racine a laissé échapper un enjambement :
-
-Le feu de ses regards, sa haute majesté
-Font connattre Alexandre. Et certes son visage
-Porte de sa grandeur l'ineffaçable image.
-
-1re Remarque. L'enjambement est permis quand on a soin d'ajouter aux mots rejetés un développement qui complète le vers :
-
-Oui, j'accorde qu'Auguste a droit de conserver
-L'empire, où sa vertu l'a fait seule arriver. CORN.
-Elle se croit déjà souveraine maitresse
-D'un sceptre partagé, que sa bonté lui laisse. ID.
-Qui voit sous ses drapeaux marcher un camp nombreux
-De hardis étrangers, d'infidèles Hébreux. RAC.
-Enfin je me dérobe à la joie importune
-De tant d'amis nouveaux que m'a faits ma fortune...
-Il voit plus que jamais ses campagnes couvertes
-De Romains que la guerre enrichit de nos pertes. ID.
-
-2me Remarque. Il est encore permis lorsqu'il y a une suspension, réticence ou interruption :
-
-N'y manquez pas du moins; j'ai quatorze bouteilles
-D'un vieux vin... Boucingot n'en a pas de pareilles. BOIL.
-Est-ce un frère? est-ce vous dont la témérité
-S'imagine?... - Apaisez ce courroux emporté. CORN.
-
-3me Remarque. L'enjambement n'est pas proscrit d'une manière aussi rigoureuse des genres simples, tels que la comédie, la fable, le conte, l'épître badine, etc.
+.....
 
 4me Remarque. On tire quelquefois de l'enjambement d'heureux effets d'harmonie imitative. C'est ce que nous verrons dans un des chapitres suivants.
 
@@ -89,73 +63,9 @@ tout ce qui tend à la faire disparaître est un véritable contre-sens.
     </quote>
     <bibl corresp="#ronsard">ID.</bibl>
     </cit>
-    <p>Dans une de ses premières tragédies, <rs type="per" xml:id="racine">Racine</rs> a laissé échapper un <term corresp="#vi-enjamb">enjambement</term> :</p>
-    <p><quote source="racine">
-        <lg>
-            <l>Le feu de ses regards, sa haute majesté</l>
-            <l>Font connaître Alexandre. Et certes son visage</l>
-            <l>Porte de sa grandeur l'ineffaçable image.</l>
-        </lg>
-    </quote></p>
-    <p ana="remarque" xml:id="vi-1">1re Remarque. L'<term corresp="#vi-enjamb">enjambement</term> est permis quand on a soin d'ajouter aux mots rejetés un développement qui complète le vers :</p>
-    <cit type="exemple" corresp="#vi-enjamb">
-    <quote>
-        <lg>
-            <l>Oui, j'accorde qu'Auguste a droit de conserver</l>
-            <l>L'empire, où sa vertu l'a fait seule arriver.</l>
-        </lg>
-    </quote>
-    <bibl corresp="corneille">CORN.</bibl>
-    </cit>
-     <cit type="exemple" corresp="#vi-enjamb">
-    <quote>
-        <lg>
-            <l>Elle se croit déjà souveraine maitresse</l>
-            <l>D'un sceptre partagé, que sa bonté lui laisse.</l>
-        </lg>
-    </quote>
-    <bibl corresp="corneille">ID.</bibl>
-    </cit>
-    <cit type="exemple" corresp="#vi-enjamb">
-    <quote>
-        <lg>
-            <l>Qui voit sous ses drapeaux marcher un camp nombreux</l>
-            <l>De hardis étrangers, d'infidèles Hébreux.</l>
-        </lg>
-    </quote>
-    <bibl corresp="racine">RAC.</bibl>
-    </cit>
-    <cit type="exemple" corresp="#vi-enjamb">
-    <quote>
-        <lg>
-            <l>Enfin je me dérobe à la joie importune</l>
-            <l>De tant d'amis nouveaux que m'a faits ma fortune...</l>
-            <l>Il voit plus que jamais ses campagnes couvertes</l>
-            <l>De Romains que la guerre enrichit de nos pertes.</l>
-        </lg>
-    </quote>
-    <bibl corresp="racine">ID.</bibl>
-    </cit>
-    <p ana="remarque" xml:id="vi-2">2me Remarque. Il est encore permis lorsqu'il y a une suspension, réticence ou interruption :</p>
-    <cit type="exemple" corresp="#vi-enjamb">
-    <quote>
-        <lg>
-            <l>N'y manquez pas du moins; j'ai quatorze bouteilles</l>
-            <l>D'un vieux vin... Boucingot n'en a pas de pareilles.</l>
-        </lg>
-    </quote>
-    <bibl corresp="boileau">BOIL.</bibl>
-    </cit>
-    <cit type="exemple" corresp="#vi-enjamb">
-    <quote>
-        <lg>
-            <l>Est-ce un frère? est-ce vous dont la témérité</l>
-            <l>S'imagine?... - Apaisez ce courroux emporté.</l>
-        </lg>
-    </quote>
-    <bibl corresp="corneille">CORN.</bibl>
-    </cit>
-    <p ana="remarque" xml:id="vi-3">3me Remarque. L'<term corresp="#vi-enjamb">enjambement</term> n'est pas proscrit d'une manière aussi rigoureuse des genres simples, tels que la comédie, la fable, le conte, l'épître badine, etc.</p>
+    
+.....
+
     <p ana="remarque" xml:id="vi-4">4me Remarque. On tire quelquefois de l'<term corresp="#vi-enjamb">enjambement</term> d'heureux effets d'harmonie imitative. C'est ce que nous verrons dans un des chapitres suivants.</p>
     <p ana="remarque" xml:id="vi-5">5me Remarque. Il est souvent admis dans les vers de dix syllabes. Nous reviendrons également sur ce point.</p>
     <p ana="observation_generale">Observation générale. La règle de l'enjambement est une règle fondamentale, qui, avec la rime,
@@ -178,35 +88,7 @@ Et l'unique faveur, mon frère, où je prétends. RAC.
 Je renonce à l'empire où j'étais destiné.
 Et cet aveu honteux où vous m'avez forcée. ID.
 
-2° On peut employer les prépositions en, dans, au lieu de à, devant un nom de ville qui commence par une voyelle, afin d'éviter l'hiatus :
-
-Je serai marié, si l'on veut, en Alger. CORN.
-Cassandre dans Argos a suivi votre père. RAC.
-Allez en Albion que votre renommée
-Y parle en ma défense, et m'y donne une armée. VOLT.
-
-3° La poésie admet un verbe au singulier avec plusieurs sujets du singulier :
-
-L'obstacle qu'ils y font peut. vous montrer sans peine
-Quelle est pour vous et moi leur envie et, leur haine. CORN.
-Une église, un prélat m'engage en sa querelle. BOIL.
-Que ma foi, mon amour, mon honneur y consente. RAC.
-D'où te bannit ton sexe et ton impiété. ID.
-Ane, cheval et mule aux forêts habitait. LA FONT.
-
-ELLIPSE. - On appelle ellipse le retranchement d'un ou de plusieurs mots qui seraient nécessaires pour la régularité de la construction.
-Il y a des ellipses en prose; nous ne nous occuperons que de celles de la poésie.
-
-4° Les poëtes peuvent se dispenser de mettre un pronom en tête d'un second membre de phrase, quand bien même le sujet est déjà assez éloigné :
-
-Mais je sais peu louer, et ma muse tremblante
-Fuit d'un si grand fardeau la charge trop pesante;
-Et, dans ce haut éclat où tu te viens offrir,
-Touchant à tes lauriers, craindrait de les flétrir. BOIL.
-Je condamnai les dieux, et sans plus rien ouïr,
-Fis vœu sur les autels de leur désobéir. RAC.
-Je frémissais, Doris, et d'un vainqueur sauvage
-Craignais de rencontrer l'effroyable visage. ID.
+.....
 
 5° Ils offrent des ellipses encore plus hardies :
 
@@ -240,84 +122,7 @@ Mais il en est un grand nombre dont les poëtes font un bien plus fréquent usag
 
 Voici quelques-uns des mots qui sont plus particulièrement affectés à la poésie.
 
-Au lieu de
-
-Ville,
-Cheval,
-Ciel,
-Colère,
-Crime,
-Hommes,
-Mariage,
-Épée,
-Eau,
-Vaisseau,
-Bateau,
-Matelot,
-Enfers,
-Souffle (des vents),
-Travail,
-Côte,
-Ventre,
-Vent frais,
-Vent violent,
-Espace de cinq ans,
-Terre ensemencée,
-Ancien,
-Aussitôt,
-Il n'y a pas longtemps,
-
-Elle dit :
-
-Cité.
-Coursier.
-L'Olympe.
-Courroux.
-Forfait.
-Mortels, humains.
-Hymen, hyménée.
-Glaive, fer.
-Onde.
-Nef.
-Esquif.
-Nautonier.
-Le Tartare, le Ténare, le Coeyte,l'Achéron,leStyx.
-Haleine.
-Labeur.
-Flanc.
-Flanc, entrailles, sein.
-Zéphyr, zéphyre.
-Aquilon,Borée,les Autans.
-Lustre.
-Guérets.
-Antique.
-Soudain.
-Naguère.
-
-Ajoutons quelques autres mots, que nous confirmerons par des exemples.
-
-1° Alors que, cependant que, s'emploient pour dorsque, pendant que, surtout dans le style élevé :
-
-Le ciel nous en absout alors qu'il nous te donne. CORN.
-Faut-il que l'on s'indigne alors qu'on vous admire? VOLT.
-Cependant que de l'autre il croit être le père. CORN.
-Cependant que mon front, au Caucase pareil,
-Brave l'effort de la tempête. LA FONT.
-
-2° Penser, au lieu de pensée.
-
-Aux fragiles pensers ayant ouvert la porte. MALH.
-Mon cœur ne forme point de pensers assez fermes. CORN.
-Vainement offusqué de ces pensers épais. BOIL.
-Votre âme, à ce penser, de colère murmure. ID.
-Que j'ai toujours haï les pensers du vulgaire ! LA FONT.
-
-3° Discord, discords,.pour différend, discussion, querelle :
-
-Puisque chacun, dit-il, s'échauffe en ce discord. CORN.
-De vos discords passés perdez le souvenir. ROTROU.
-Et que le ciel vous mît, pour finir vos discords,
-L'un parmi les vivants, l'autre parmi les morts. RAC.
+.....
 
 4° Lors pour alors, las pour hélas, ne s'emploieraient aujourd'hui que dans te genre familier.
 
@@ -347,29 +152,6 @@ En serait plein, sans ce maudit oiseau. LA FONT.
 Honni seras, ainsi que je prévoi. ROUSS.
 Sacrés ils sont, car personne n'y touche. VOLT.
 
-Inversion du régime :
-
-Puis en autant de parts le cerf il dépeça. LA FONT.
-Et ne pouvant son faible vous cacher,
-Le vôtre au moins it tâche d'éplucher. ROUSS.
-D'un air galant leur figure étalaient. VOLT.
-
-Pour se rapprocher de leur modèle, les imitateurs de Marot lui empruntent encore l'enjambement et des expressions surannées.
-Nous terminerons par un exemple, qui montrera réunies les diverses licences du style marotique :
-
-Deux avocats, qui ne s'accordaient point,
-Rendaient perplexe un juge de province.
-Si ne put onc découvrir le vrai point,
-Tant lui semblait que fût obscur et mince.
-Deux pailles prend d'inégale grandeur;
-Des doigts les serre il avait bonne pince.
-La longue échut sans faute au défendeur;
-Dont renvoyé s'en va gai comme un prince.
-La cour s'en plaint, et le juge repart
-« Ne me blâmez, messieurs, pour cet égard :
-De nouveauté dans mon fait il n'est maille;
-Maint d'entre vous souvent juge au hasard,
-Sans que pour ce tire à la courte paille. » LA FONT.
 
 *TEI encoded text 2*
 <div type="chapitre" n="X" xml:id="x">
@@ -406,98 +188,9 @@ Sans que pour ce tire à la courte paille. » LA FONT.
         <bibl corresp="#racine">ID.</bibl>
         </cit>
         </item>
-        <item xml:id="x-item-1.2"><p ana="prescription">2° On peut employer les prépositions en, dans, au lieu de à, devant un nom de ville qui commence par une voyelle, afin d'éviter l'hiatus :</p>
-        <cit type="exemple" corresp="#x-item-1.2">
-        <quote>
-            <l>Je serai marié, si l'on veut, en Alger.</l>
-        </quote>
-        <bibl corresp="#corneille">CORN.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-1.2">
-        <quote>
-            <l>Cassandre dans Argos a suivi votre père.</l>
-        </quote>
-        <bibl corresp="#racine">RAC.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-1.2">
-        <quote>
-            <lg>
-                <l>Allez en Albion que votre renommée</l>
-                <l>Y parle en ma défense, et m'y donne une armée.</l>
-            </lg>
-        </quote>
-        <bibl corresp="#voltaire">VOLT.</bibl>
-        </cit>
-        </item>
-        <item xml:id="x-item-1.3"><p ana="prescription">3° La poésie admet un verbe au singulier avec plusieurs sujets du singulier :</p>
-        <cit type="exemple" corresp="#x-item-1.3">
-        <quote>
-            <lg>
-                <l>L'obstacle qu'ils y font peut. vous montrer sans peine</l>
-                <l>Quelle est pour vous et moi leur envie et, leur haine.</l>
-            </lg>
-        </quote>
-        <bibl corresp="#corneille">CORN.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-1.3">
-        <quote>
-            <l>Une église, un prélat m'engage en sa querelle.</l>
-        </quote>
-        <bibl corresp="#boileau">BOIL.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-1.3">
-        <quote>
-            <l>Que ma foi, mon amour, mon honneur y consente.</l>
-        </quote>
-        <bibl corresp="#racine">RAC.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-1.3">
-        <quote>
-            <l>D'où te bannit ton sexe et ton impiété.</l>
-        </quote>
-        <bibl corresp="#racine">ID.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-1.3">
-        <quote>
-            <l>Ane, cheval et mule aux forêts habitait.</l>
-        </quote>
-        <bibl corresp="#la_fontaine">LA FONT.</bibl>
-        </cit>
-        <p><gloss target="#x-ellip"><term xml:id="x-ellip">ELLIPSE</term>. - On appelle <term corresp="#x-ellip">ellipse</term> le retranchement d'un ou de plusieurs mots qui seraient nécessaires
-        pour la régularité de la construction.</gloss></p>
-        <p>Il y a des <term corresp="#x-ellip">ellipses</term> en prose; nous ne nous occuperons que de celles de la poésie.</p>
-        </item>
-        <item xml:id="x-item-1.4"><p ana="prescription">4° Les poëtes peuvent se dispenser de mettre un pronom en tête d'un second membre de phrase, quand bien même le sujet est déjà assez éloigné :</p>
-        <cit type="exemple" corresp="#x-item-1.4">
-        <quote>
-            <lg>
-                <l>Mais je sais peu louer, et ma muse tremblante</l>
-                <l>Fuit d'un si grand fardeau la charge trop pesante;</l>
-                <l>Et, dans ce haut éclat où tu te viens offrir,</l>
-                <l>Touchant à tes lauriers, craindrait de les flétrir.</l>
-            </lg>
-        </quote>
-        <bibl corresp="#boileau">BOIL.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-1.4">
-        <quote>
-            <lg>
-                <l>Je condamnai les dieux, et sans plus rien ouïr,</l>
-                <l>Fis vœu sur les autels de leur désobéir.</l>
-            </lg>
-        </quote>
-        <bibl corresp="#racine">RAC.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-1.4">
-        <quote>
-            <lg>
-                <l>Je frémissais, Doris, et d'un vainqueur sauvage</l>
-                <l>Craignais de rencontrer l'effroyable visage.</l>
-            </lg>
-        </quote>
-        <bibl corresp="#racine">ID.</bibl>
-        </cit>
-        </item>
+        
+.....
+
         <item xml:id="x-item-1.5"><p>5° Ils offrent des <term corresp="#x-ellip">ellipses</term> encore plus hardies :</p>
         <cit type="exemple" corresp="#x-item-1.5">
         <quote>
@@ -543,146 +236,9 @@ Sans que pour ce tire à la courte paille. » LA FONT.
     <p>Notre langue a très-peu de mots particuliers à la poésie et qui ne puissent se rencontrer dans la prose oratoire.
     Mais il en est un grand nombre dont les poëtes font un bien plus fréquent usage.</p>
     <p>Voici quelques-uns des mots qui sont plus particulièrement affectés à la poésie.</p>
-    <p>Au lieu de</p>
-    <list>
-        <item>Ville,</item>
-        <item>Cheval,</item>
-        <item>Ciel,</item>
-        <item>Colère,</item>
-        <item>Crime,</item>
-        <item>Hommes,</item>
-        <item>Mariage,</item>
-        <item>Épée,</item>
-        <item>Eau,</item>
-        <item>Vaisseau,</item>
-        <item>Bateau,</item>
-        <item>Matelot,</item>
-        <item>Enfers,</item>
-        <item>Souffle (des vents),</item>
-        <item>Travail,</item>
-        <item>Côte,</item>
-        <item>Ventre,</item>
-        <item>Vent frais,</item>
-        <item>Vent violent,</item>
-        <item>Espace de cinq ans,</item>
-        <item>Terre ensemencée,</item>
-        <item>Ancien,</item>
-        <item>Aussitôt,</item>
-        <item>Il n'y a pas longtemps,</item>
-    </list>
-    <p>Elle dit :</p>
-    <list>
-        <item>Cité.</item>
-        <item>Coursier.</item>
-        <item>L'Olympe.</item>
-        <item>Courroux</item>
-        <item>Forfait.</item>
-        <item>Mortels, humains.</item>
-        <item>Hymen, hyménée.</item>
-        <item>Glaive, fer.</item>
-        <item>Onde.</item>
-        <item>Nef.</item>
-        <item>Esquif.</item>
-        <item>Nautonier.</item>
-        <item>Le Tartare, le Ténare, le Coeyte,l'Achéron,leStyx.</item>
-        <item>Haleine.</item>
-        <item>Labeur.</item>
-        <item>Flanc.</item>
-        <item>Flanc, entrailles, sein.</item>
-        <item>Zéphyr, zéphyre.</item>
-        <item>Aquilon,Borée,les Autans.</item>
-        <item>Lustre.</item>
-        <item>Guérets.</item>
-        <item>Antique.</item>
-        <item>Soudain.</item>
-        <item>Naguère.</item>
-    </list>
-    <p>Ajoutons quelques autres mots, que nous confirmerons par des exemples.</p>
-    <list>
-        <item xml:id="x-item-2.1"><p>1° Alors que, cependant que, s'emploient pour dorsque, pendant que, surtout dans le style élevé :</p>
-        <cit type="exemple" corresp="#x-item-2.1">
-        <quote>
-            <l>Le ciel nous en absout alors qu'il nous te donne.</l>
-        </quote>
-        <bibl corresp="#corneille">CORN.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-2.1">
-        <quote>
-            <l>Faut-il que l'on s'indigne alors qu'on vous admire?</l>
-        </quote>
-        <bibl corresp="#voltaire">VOLT.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-2.1">
-        <quote>
-            <l>Cependant que de l'autre il croit être le père.</l>
-        </quote>
-        <bibl corresp="#corneille">CORN.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-2.1">
-        <quote>
-            <lg>
-                <l>Cependant que mon front, au Caucase pareil,</l>
-                <l>Brave l'effort de la tempête.</l>
-            </lg>
-        </quote>
-        <bibl corresp="#la_fontaine">LA FONT.</bibl>
-        </cit>
-        </item>
-        <item xml:id="x-item-2.2"><p>2° Penser, au lieu de pensée.</p>
-        <cit type="exemple" corresp="#x-item-2.2">
-        <quote>
-            <l>Aux fragiles pensers ayant ouvert la porte.</l>
-        </quote>
-        <bibl corresp="#malherbe">MALH.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-2.2">
-        <quote>
-            <l>Mon cœur ne forme point de pensers assez fermes.</l>
-        </quote>
-        <bibl corresp="#corneille">CORN.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-2.2">
-        <quote>
-            <l>Vainement offusqué de ces pensers épais.</l>
-        </quote>
-        <bibl corresp="#boileau">BOIL.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-2.2">
-        <quote>
-            <l>Votre âme, à ce penser, de colère murmure.</l>
-        </quote>
-        <bibl corresp="#boileau">ID.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-2.2">
-        <quote>
-            <l>Que j'ai toujours haï les pensers du vulgaire !</l>
-        </quote>
-        <bibl corresp="#la_fontaine">LA FONT</bibl>
-        </cit>
-        </item>
-        <item xml:id="x-item-2.3"><p>3° Discord, discords,.pour différend, discussion, querelle :</p>
-        <cit type="exemple" corresp="#x-item-2.3">
-        <quote>
-            <l>Puisque chacun, dit-il, s'échauffe en ce discord.</l>
-        </quote>
-        <bibl corresp="#corneille">CORN.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-2.3">
-        <quote>
-            <l>De vos discords passés perdez le souvenir.</l>
-        </quote>
-        <bibl corresp="#rotrou">ROTROU.</bibl>
-        </cit>
-        <cit type="exemple" corresp="#x-item-2.3">
-        <quote>
-            <lg>
-                <l>Et que le ciel vous mît, pour finir vos discords,</l>
-                <l>L'un parmi les vivants, l'autre parmi les morts.</l>
-            </lg>
-        </quote>
-        <bibl corresp="#racine">RAC.</bibl>
-        </cit>
-        </item>
+    
+.....
+
         <item xml:id="x-item-2.4"><p>4° Lors pour alors, las pour hélas, ne s'emploieraient aujourd'hui que dans te genre familier.</p></item>
     </list>
     </div>
